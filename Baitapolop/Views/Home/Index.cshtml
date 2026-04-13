@@ -2,7 +2,16 @@
     ViewData["Title"] = "Home Page";
 }
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
-</div>
+@model List<Baitapolop.Models.Course>
+<h2>Khóa học</h2>
+<a href="/Course/Create">+ Thêm</a>
+<table border="1" cellpadding="8">
+    <tr><th>Tên</th><th></th></tr>
+    @foreach (var c in Model)
+    {
+        <tr>
+            <td>@c.Name</td>
+            <td><a href="/Course/Edit/@c.Id">Sửa</a> | <a href="/Course/Delete/@c.Id">Xóa</a></td>
+        </tr>
+    }
+</table>

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Baitapolop")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+82314d6fbd36d5a6b6a9fc11d9f2a2ce666852f9")]
 [assembly: System.Reflection.AssemblyProductAttribute("Baitapolop")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Baitapolop")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,7 +1,60 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\HocC#\\Baitapolop\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{036372D7-61A1-4AB5-A907-6F5DFC3A09E9}|Baitapolop\\Baitapolop.csproj|d:\\hocc#\\baitapolop\\baitapolop\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{036372D7-61A1-4AB5-A907-6F5DFC3A09E9}|Baitapolop\\Baitapolop.csproj|solutionrelative:baitapolop\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{036372D7-61A1-4AB5-A907-6F5DFC3A09E9}|Baitapolop\\Baitapolop.csproj|d:\\hocc#\\baitapolop\\baitapolop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{036372D7-61A1-4AB5-A907-6F5DFC3A09E9}|Baitapolop\\Baitapolop.csproj|solutionrelative:baitapolop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{036372D7-61A1-4AB5-A907-6F5DFC3A09E9}|Baitapolop\\Baitapolop.csproj|d:\\hocc#\\baitapolop\\baitapolop\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{036372D7-61A1-4AB5-A907-6F5DFC3A09E9}|Baitapolop\\Baitapolop.csproj|solutionrelative:baitapolop\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{036372D7-61A1-4AB5-A907-6F5DFC3A09E9}|Baitapolop\\Baitapolop.csproj|d:\\hocc#\\baitapolop\\baitapolop\\views\\couserse\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{036372D7-61A1-4AB5-A907-6F5DFC3A09E9}|Baitapolop\\Baitapolop.csproj|solutionrelative:baitapolop\\views\\couserse\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{036372D7-61A1-4AB5-A907-6F5DFC3A09E9}|Baitapolop\\Baitapolop.csproj|d:\\hocc#\\baitapolop\\baitapolop\\views\\couserse\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{036372D7-61A1-4AB5-A907-6F5DFC3A09E9}|Baitapolop\\Baitapolop.csproj|solutionrelative:baitapolop\\views\\couserse\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{036372D7-61A1-4AB5-A907-6F5DFC3A09E9}|Baitapolop\\Baitapolop.csproj|d:\\hocc#\\baitapolop\\baitapolop\\views\\couserse\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{036372D7-61A1-4AB5-A907-6F5DFC3A09E9}|Baitapolop\\Baitapolop.csproj|solutionrelative:baitapolop\\views\\couserse\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{036372D7-61A1-4AB5-A907-6F5DFC3A09E9}|Baitapolop\\Baitapolop.csproj|d:\\hocc#\\baitapolop\\baitapolop\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{036372D7-61A1-4AB5-A907-6F5DFC3A09E9}|Baitapolop\\Baitapolop.csproj|solutionrelative:baitapolop\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{036372D7-61A1-4AB5-A907-6F5DFC3A09E9}|Baitapolop\\Baitapolop.csproj|d:\\hocc#\\baitapolop\\baitapolop\\controllers\\enrollmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{036372D7-61A1-4AB5-A907-6F5DFC3A09E9}|Baitapolop\\Baitapolop.csproj|solutionrelative:baitapolop\\controllers\\enrollmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{036372D7-61A1-4AB5-A907-6F5DFC3A09E9}|Baitapolop\\Baitapolop.csproj|d:\\hocc#\\baitapolop\\baitapolop\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{036372D7-61A1-4AB5-A907-6F5DFC3A09E9}|Baitapolop\\Baitapolop.csproj|solutionrelative:baitapolop\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{036372D7-61A1-4AB5-A907-6F5DFC3A09E9}|Baitapolop\\Baitapolop.csproj|d:\\hocc#\\baitapolop\\baitapolop\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{036372D7-61A1-4AB5-A907-6F5DFC3A09E9}|Baitapolop\\Baitapolop.csproj|solutionrelative:baitapolop\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{036372D7-61A1-4AB5-A907-6F5DFC3A09E9}|Baitapolop\\Baitapolop.csproj|d:\\hocc#\\baitapolop\\baitapolop\\models\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{036372D7-61A1-4AB5-A907-6F5DFC3A09E9}|Baitapolop\\Baitapolop.csproj|solutionrelative:baitapolop\\models\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{036372D7-61A1-4AB5-A907-6F5DFC3A09E9}|Baitapolop\\Baitapolop.csproj|d:\\hocc#\\baitapolop\\baitapolop\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{036372D7-61A1-4AB5-A907-6F5DFC3A09E9}|Baitapolop\\Baitapolop.csproj|solutionrelative:baitapolop\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{036372D7-61A1-4AB5-A907-6F5DFC3A09E9}|Baitapolop\\Baitapolop.csproj|d:\\hocc#\\baitapolop\\baitapolop\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{036372D7-61A1-4AB5-A907-6F5DFC3A09E9}|Baitapolop\\Baitapolop.csproj|solutionrelative:baitapolop\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +62,180 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\HocC#\\Baitapolop\\Baitapolop\\Program.cs",
+              "RelativeDocumentMoniker": "Baitapolop\\Program.cs",
+              "ToolTip": "D:\\HocC#\\Baitapolop\\Baitapolop\\Program.cs",
+              "RelativeToolTip": "Baitapolop\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T07:48:35.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\HocC#\\Baitapolop\\Baitapolop\\Views\\Couserse\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Baitapolop\\Views\\Couserse\\Edit.cshtml",
+              "ToolTip": "D:\\HocC#\\Baitapolop\\Baitapolop\\Views\\Couserse\\Edit.cshtml",
+              "RelativeToolTip": "Baitapolop\\Views\\Couserse\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-13T07:41:12.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\HocC#\\Baitapolop\\Baitapolop\\Views\\Couserse\\Create.cshtml",
+              "RelativeDocumentMoniker": "Baitapolop\\Views\\Couserse\\Create.cshtml",
+              "ToolTip": "D:\\HocC#\\Baitapolop\\Baitapolop\\Views\\Couserse\\Create.cshtml",
+              "RelativeToolTip": "Baitapolop\\Views\\Couserse\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-13T07:40:29.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\HocC#\\Baitapolop\\Baitapolop\\Views\\Couserse\\Index.cshtml",
+              "RelativeDocumentMoniker": "Baitapolop\\Views\\Couserse\\Index.cshtml",
+              "ToolTip": "D:\\HocC#\\Baitapolop\\Baitapolop\\Views\\Couserse\\Index.cshtml",
+              "RelativeToolTip": "Baitapolop\\Views\\Couserse\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-13T07:39:29.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EnrollmentController.cs",
+              "DocumentMoniker": "D:\\HocC#\\Baitapolop\\Baitapolop\\Controllers\\EnrollmentController.cs",
+              "RelativeDocumentMoniker": "Baitapolop\\Controllers\\EnrollmentController.cs",
+              "ToolTip": "D:\\HocC#\\Baitapolop\\Baitapolop\\Controllers\\EnrollmentController.cs",
+              "RelativeToolTip": "Baitapolop\\Controllers\\EnrollmentController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA1wAcAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T07:36:18.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "D:\\HocC#\\Baitapolop\\Baitapolop\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "Baitapolop\\Controllers\\StudentController.cs",
+              "ToolTip": "D:\\HocC#\\Baitapolop\\Baitapolop\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "Baitapolop\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwAYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T07:35:33.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CoursesController.cs",
+              "DocumentMoniker": "D:\\HocC#\\Baitapolop\\Baitapolop\\Controllers\\CoursesController.cs",
+              "RelativeDocumentMoniker": "Baitapolop\\Controllers\\CoursesController.cs",
+              "ToolTip": "D:\\HocC#\\Baitapolop\\Baitapolop\\Controllers\\CoursesController.cs",
+              "RelativeToolTip": "Baitapolop\\Controllers\\CoursesController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T07:34:30.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\HocC#\\Baitapolop\\Baitapolop\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Baitapolop\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\HocC#\\Baitapolop\\Baitapolop\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Baitapolop\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T07:23:39.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Enrollment.cs",
+              "DocumentMoniker": "D:\\HocC#\\Baitapolop\\Baitapolop\\Models\\Enrollment.cs",
+              "RelativeDocumentMoniker": "Baitapolop\\Models\\Enrollment.cs",
+              "ToolTip": "D:\\HocC#\\Baitapolop\\Baitapolop\\Models\\Enrollment.cs",
+              "RelativeToolTip": "Baitapolop\\Models\\Enrollment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T07:22:04.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\HocC#\\Baitapolop\\Baitapolop\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Baitapolop\\Models\\Student.cs",
+              "ToolTip": "D:\\HocC#\\Baitapolop\\Baitapolop\\Models\\Student.cs",
+              "RelativeToolTip": "Baitapolop\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T07:21:21.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Course.cs",
+              "DocumentMoniker": "D:\\HocC#\\Baitapolop\\Baitapolop\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "Baitapolop\\Models\\Course.cs",
+              "ToolTip": "D:\\HocC#\\Baitapolop\\Baitapolop\\Models\\Course.cs",
+              "RelativeToolTip": "Baitapolop\\Models\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T07:20:02.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\HocC#\\Baitapolop\\Baitapolop\\Models\\Person.cs",
+              "RelativeDocumentMoniker": "Baitapolop\\Models\\Person.cs",
+              "ToolTip": "D:\\HocC#\\Baitapolop\\Baitapolop\\Models\\Person.cs",
+              "RelativeToolTip": "Baitapolop\\Models\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T06:53:23.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\HocC#\\Baitapolop\\Baitapolop\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Baitapolop\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\HocC#\\Baitapolop\\Baitapolop\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Baitapolop\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-13T06:49:32.921Z",
+              "EditorCaption": ""
             }
           ]
         }
